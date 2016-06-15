@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-oauth2",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "description": "OAuth 2.0 provider for LoopBack",
   "keywords": [
     "StrongLoop",
@@ -52,5 +52,65 @@
   "scripts": {
     "test": "mocha --reporter spec --require test/bootstrap/node test/*.test.js test/**/*.test.js"
   },
-  "license": "SEE LICENSE IN LICENSE.md"
+  "license": "SEE LICENSE IN LICENSE.md",
+  "gitHead": "3cbfb1ab8a8af4044f7c7cf954ed230e2d7b4620",
+  "homepage": "https://github.com/strongloop/loopback-component-oauth2#readme",
+  "_id": "loopback-component-oauth2@2.4.1",
+  "_shasum": "b29330c949e61d16cfbbc78c7cd1a609360e3f7d",
+  "_from": "loopback-component-oauth2@*",
+  "_npmVersion": "3.8.8",
+  "_nodeVersion": "4.4.3",
+  "_npmUser": {
+    "name": "rmg",
+    "email": "r.m.graham@gmail.com"
+  },
+  "dist": {
+    "shasum": "b29330c949e61d16cfbbc78c7cd1a609360e3f7d",
+    "tarball": "https://registry.npmjs.org/loopback-component-oauth2/-/loopback-component-oauth2-2.4.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "bajtos",
+      "email": "mbajtoss@gmail.com"
+    },
+    {
+      "name": "chandadharap",
+      "email": "chanda_dharap@yahoo.com"
+    },
+    {
+      "name": "ibmcloud-admin",
+      "email": "rmg@ca.ibm.com"
+    },
+    {
+      "name": "kraman",
+      "email": "kraman@gmail.com"
+    },
+    {
+      "name": "octet",
+      "email": "vieuxtech@gmail.com"
+    },
+    {
+      "name": "rfeng",
+      "email": "enjoyjava@gmail.com"
+    },
+    {
+      "name": "ritch",
+      "email": "skawful@gmail.com"
+    },
+    {
+      "name": "rmg",
+      "email": "r.m.graham@gmail.com"
+    },
+    {
+      "name": "strongloop",
+      "email": "strngops@us.ibm.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/loopback-component-oauth2-2.4.1.tgz_1462571471674_0.6362579013220966"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/loopback-component-oauth2/-/loopback-component-oauth2-2.4.1.tgz",
+  "readme": "ERROR: No README data found!"
 }

@@ -1,3 +1,9 @@
+2016-15-06, Version 2.4.2
+=========================
+
+ * Added third party provider support (James K)
+
+
 2016-05-06, Version 2.4.1
 =========================
 
