@@ -1,6 +1,6 @@
 {
   "name": "OAuthAccessToken",
-  "base": "PersistedModel",
+  "base": "AccessToken",
   "properties": {
     "id": {
       "type": "string",
@@ -62,4 +62,3 @@
     }
   }
 }
-
