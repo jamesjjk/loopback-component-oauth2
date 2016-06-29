@@ -60,7 +60,11 @@
     "anonymousAllowed": null,
     "authenticationSchemes": null,
     "icon": null,
-    "url": null
+    "url": null,
+    "forceAuthorization": {
+      "type": "boolean",
+      "default": false
+    }
   },
   "comments": "https://tools.ietf.org/html/draft-ietf-oauth-dyn-reg-24"
 }
